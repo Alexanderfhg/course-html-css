@@ -1,0 +1,17 @@
+h2 {
+  color: darkslateblue;
+  font-size: 50px;
+  font-family: 'Great Vibes', cursive;}
+
+h3 {
+  color: brown;
+  font-size: 20px;
+}
+
+p {
+  color: darkslategray;
+}
+
+.bordes {
+  border-radius: 20px;
+}
